@@ -26,14 +26,9 @@ function [dataFrame] = modify(dataFrame,position)
     limit = size(dataFrame);
     i=1; done =0; elim =0;
     while (done+elim)<limit(1)
-%         if(dataFrame(i,1)~=2 && dataFrame(i,1)~=5)
             dataFrame(i,1) = dataFrame(i,1)-1;%position(dataFrame(i,1));
             i = i+1;
             done = done+1;
-%         else
-%             dataFrame(i,:) = [];
-%             elim = elim +1;
-%         end
     end
 end
 
