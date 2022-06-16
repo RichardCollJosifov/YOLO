@@ -7,5 +7,4 @@ Here you will be able to find the code relating to all the parts of the thesis:
 ## [Chapter 4: Dataset generation](DataGeneration) 
 ## [Chapter 5: Neural network training](NetworkTraining) 
 ## [Chapter 6: Models comparison](ModelsComparison) 
-
-
+## [Chapter 8: Application area: accidents prediction](AccidentsPrediction) 
