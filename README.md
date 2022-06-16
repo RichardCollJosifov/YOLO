@@ -8,3 +8,5 @@ Here you will be able to find the code relating to all the parts of the thesis:
 ## [Chapter 5: Neural network training](NetworkTraining) 
 ## [Chapter 6: Models comparison](ModelsComparison) 
 ## [Chapter 8: Application area: accidents prediction](AccidentsPrediction) 
+
+In addition to these, the [trained models](NetworkTraining/models) can be found here as well. 
