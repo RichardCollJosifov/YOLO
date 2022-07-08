@@ -1,10 +1,5 @@
 Here the videos of the results can be seen.
 
-## Videos of YOLOv4 480 trained network performance on drone footage
-
-https://user-images.githubusercontent.com/54583842/177962042-4cb96511-5c70-4ce4-aa02-520db7c9dc21.mp4
-
-
 ## Videos of the accident prediction algorithm
 https://user-images.githubusercontent.com/54583842/177960645-1560b51b-9745-4b25-91e5-e7da760e2bf5.mp4
 
